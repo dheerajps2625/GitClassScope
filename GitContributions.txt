@@ -3,5 +3,9 @@ This is our Git Contributions:
 	Founded Linus Torvalds
 
 Hi friends please add in your contributions.
+-------------------------------
+Hi I am Jeevan..
 
+Its my second class about git.
+-------------------------------
 
